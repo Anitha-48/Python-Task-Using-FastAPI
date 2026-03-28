@@ -21,12 +21,11 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 - Uvicorn
 
 -----
-##Using end points
-I have to  used for end points like,
+## Using end points like,
       GET,
       POST,
       PUT & DELETE.
-----      
+
 ##  Setup Instructions
 ```
 git clone https://github.com//user_api.git
