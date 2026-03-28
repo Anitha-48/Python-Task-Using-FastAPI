@@ -27,8 +27,8 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 ##  Setup Instructions
 ```
 step 1:
-https://github.com/your-username/user_api.git
-cd user_api
+https://github.com/Anitha-48/Python-Task-Using-FastAPI/
+cd /Python-Task-Using-FastAPI/
 
 step 2: python -m venv env
 step 3:  env\Scripts\activate   
@@ -39,7 +39,9 @@ step 5:Then you have to create an .env file,
          DEBUG=True
 step 6: now run the server,
           uvicorn app.main:app --reload
- the Link will be contains, http://127.0.0.1:8000/docs
+ It should be open an empty page,  http://127.0.0.1:8000
+ then used the link,
+ http://127.0.0.1:8000/docs
 
 
 
