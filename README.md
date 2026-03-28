@@ -8,8 +8,6 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 - Get user by ID
 - Update user details
 - Delete user
-- Input validation using Pydantic
-- SQLite database integration
 - Logging support
 - Unit testing
   ---
