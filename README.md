@@ -28,11 +28,12 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 
 ##  Setup Instructions
 ```
-git clone https://github.com//user_api.git
+step 1:
+https://github.com/your-username/user_api.git
 cd user_api
 
 step 2: python -m venv env
-step 3:  env\Scripts\activate   # Windows
+step 3:  env\Scripts\activate   
 step 4: Install an packages like requriments ,
          pip install -r requirements.txt
 step 5:Then you have to create an .env file,
