@@ -3,20 +3,19 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 ---
 ##  Features
 
-- Create a new user
-- Get all users
-- Get user by ID
-- Update user details
-- Delete user
-- Logging support
-- Unit testing
+-- Create a new user
+-- Get all users
+-- Get user by ID
+-- Update user details
+-- Delete user
+-- Logging support
+-- Unit testing
   ---
   ##  Technologies Used
 
-- Python
-- FastAPI
-- Pydantic
-- Uvicorn
+-- Python
+-- FastAPI
+-- Uvicorn
 
 -----
 ## Using end points like,
@@ -28,7 +27,7 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 ```
 step 1:
 https://github.com/Anitha-48/Python-Task-Using-FastAPI/
-cd /Python-Task-Using-FastAPI/
+cd Python-Task-Using-FastAPI
 
 step 2: python -m venv env
 step 3:  env\Scripts\activate   
