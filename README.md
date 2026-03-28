@@ -24,10 +24,10 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 
 ---
 ##  Setup Instructions
-step:1
-```bash
+```
 git clone https://github.com//user_api.git
 cd user_api
+
 step 2: python -m venv env
 step 3:  env\Scripts\activate   # Windows
 step 4: Install an packages like requriments ,
