@@ -17,8 +17,6 @@ A simple REST API built using FastAPI to manage users with full CRUD operations.
 
 - Python
 - FastAPI
-- SQLite
-- SQLAlchemy
 - Pydantic
 - Uvicorn
 
